@@ -1,10 +1,3 @@
-# BuildCraft — Responsive Frontend Interface
-### DecodeLabs Full Stack Development Internship | Project 1 | Batch 2026
-
----
-
-## Live Demo
-[https://SakshiKShetty.github.io/decodelabs-project1](https://SakshiKShetty.github.io/decodelabs-project1)
 
 ---
 
@@ -95,8 +88,7 @@ No build step required. Open `index.html` directly in any browser.
 ## Author
 
 **Sakshi K Shetty**
-- GitHub: [SakshiKShetty](https://github.com/SakshiKShetty)
-- LinkedIn: [sakshi-shetty-14b9952a4](https://linkedin.com/in/sakshi-shetty-14b9952a4)
+
 
 ---
 
